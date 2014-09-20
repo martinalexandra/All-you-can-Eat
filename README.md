@@ -17,9 +17,9 @@ At the end you will have an account with your personal information so you dont h
 
 This application will have this features being able to be changed in a future.
 
-.Sign up
-.Unlimited access to your account
-.Delete your account 
-.Share data with other users
-.Report errors or suggeestions to the admin
+##. Sign up
+##. Unlimited access to your account
+##. Delete your account 
+##. Share data with other users
+##. Report errors or suggeestions to the admin
 
