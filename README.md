@@ -1,4 +1,4 @@
-#Proyect zayas 2014 (All you can Eat)
+﻿#Proyect zayas 2014 (All you can Eat)
 
 Project developed by: Alexandra Martín, Maurice Dominguez and Pablo Andrés-Gayón during the course of 2DAW of María de Zayas.
 
@@ -23,4 +23,9 @@ This application will have this features being able to be changed in a future.
 4. Share data with other users
 5. Report errors or suggeestions to the admin
  
-
+```javascript
+var x=1;
+function test(a){
+	console.log(a);
+}
+test();
